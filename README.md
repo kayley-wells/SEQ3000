@@ -58,6 +58,9 @@ After all records are processed, the program:
 - Writes the final master record(s)
 - Closes all files and stops
 
+### Running Output
+No working output yet, as an "ABEND" error is recieved when running the JCL.
+
 ### 88-Level Switches Used
 
 | Switch | Purpose |
